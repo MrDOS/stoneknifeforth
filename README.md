@@ -58,7 +58,7 @@ interpreter][0], and I said:
 
 > Alan Kay frequently expresses enthusiasm over the metacircular Lisp
 > interpreter in the Lisp 1.5 Programmer’s Manual.  For example, in
-> <http://acmqueue.com/modules.php?name=Content&pa=showpage&pid=273&page=4>
+> <https://queue.acm.org/detail.cfm?id=1039523>
 > he writes:
 > 
 > >     Yes, that was the big revelation to me when I was in graduate
@@ -134,9 +134,9 @@ those features in the compiler.
 So this is a “stone knife” programming tool: bootstrapped out of
 almost nothing as quickly as possible.
 
-[0]: http://lists.canonical.org/pipermail/kragen-hacks/2007-February/000450.html
-[1]: http://lists.canonical.org/pipermail/kragen-hacks/2007-September/000464.html
-[2]: http://www.brics.dk/~hosc/local/HOSC-11-4-pp355-361.pdf
+[0]: https://www.mail-archive.com/kragen-hacks@canonical.org/msg00152.html
+[1]: https://www.mail-archive.com/kragen-hacks@canonical.org/msg00164.html
+[2]: https://sci-hub.tw/10.1023/A:1010075320153
 
 Why? To Develop a Compiler Incrementally
 ----------------------------------------
@@ -250,8 +250,8 @@ development of Chez Scheme, [he writes][dybvig]:
 > optimizer.
 
 
-[3]: http://www.ics.uci.edu/~franz/Site/pubs-pdf/BC03.pdf "Oberon — the overlooked jewel"
-[dybvig]: http://www.cs.indiana.edu/~dyb/pubs/hocs.pdf "The Development of Chez Scheme"
+[3]: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.7173&rep=rep1&type=pdf "Oberon – The Overlooked Jewel"
+[dybvig]: https://legacy.cs.indiana.edu/~dyb/pubs/hocs.pdf "The Development of Chez Scheme"
 
 Far-Fetched Ways This Code Could Actually be Useful
 ---------------------------------------------------
@@ -532,9 +532,9 @@ Edmund GRIMLEY EVANS
 2001
 <http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html>
 
-[4]: http://compilers.iecc.com/crenshaw/
-[5]: http://www.ioccc.org/1992/buzzard.2.design
-[6]: http://piumarta.com/software/cola/
+[4]: https://compilers.iecc.com/crenshaw/
+[5]: https://ioccc.org/1992/buzzard.2.design
+[6]: https://piumarta.com/software/cola/
 [7]: https://bellard.org/otcc/
 [8]: https://github.com/ForthHub/F83
 [9]: http://www.exemark.com/FORTH/eForthOverviewv5.pdf
